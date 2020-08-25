@@ -650,6 +650,7 @@ padding: 0;}
 	top: 430px;
 	left: 100px;
 	z-index: 99;
+	animation: bounceInLeft 2s linear;
 }
 .box0 {
 	background: #fefefd;
@@ -778,14 +779,7 @@ padding: 0;}
 	margin-top: 20px;
 	animation: bounceInRight 2s linear 1s;
 }
-#leaf img{
-	position: absolute;
-	opacity: 0.3;
-	top: 650px;
-	width: 560px;
-	left: 0px;
-	z-index: 1;
-}
+
 .box1b{
 	background: #7f7770;
 	width: 250px;
